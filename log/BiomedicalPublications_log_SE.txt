@@ -1,0 +1,144 @@
+** Load Data Done! Time: 1.0m 14.20s
+** GPU: Use 2 GPUs
+** Getting Train Attention Mask Done! Time: 0.0m 30.45s
+** Getting Dev Attention Mask Done! Time: 0.0m 15.20s
+** Getting Token Type Ids Done! Time: 0.0m 0.00s
+Epoch: 01 | Epoch Time: 0.0m 51.99s
+	Train Measures Report
+		Loss: 0.420
+		Accuracy: 83.26%
+		Precision: 75.42% | 84.69% 66.15% 
+		Recall: 61.60% | 96.78% 26.42% 
+		F1-Score: 64.05% | 90.33% 37.76% 
+	Dev Measures Report
+		Loss: 0.296
+		Accuracy: 88.58%
+		Precision: 84.23% | 90.46% 78.00% 
+		Recall: 77.54% | 95.86% 59.21% 
+		F1-Score: 80.20% | 93.08% 67.32% 
+Epoch: 02 | Epoch Time: 0.0m 48.51s
+	Train Measures Report
+		Loss: 0.272
+		Accuracy: 89.49%
+		Precision: 84.82% | 91.58% 78.06% 
+		Recall: 79.39% | 95.79% 62.99% 
+		F1-Score: 81.68% | 93.64% 69.72% 
+	Dev Measures Report
+		Loss: 0.259
+		Accuracy: 90.36%
+		Precision: 87.53% | 91.61% 83.45% 
+		Recall: 80.52% | 96.84% 64.20% 
+		F1-Score: 83.36% | 94.15% 72.57% 
+Epoch: 03 | Epoch Time: 0.0m 48.96s
+	Train Measures Report
+		Loss: 0.212
+		Accuracy: 92.67%
+		Precision: 89.01% | 94.70% 83.32% 
+		Recall: 86.82% | 96.32% 77.31% 
+		F1-Score: 87.85% | 95.50% 80.20% 
+	Dev Measures Report
+		Loss: 0.282
+		Accuracy: 90.26%
+		Precision: 88.59% | 90.90% 86.27% 
+		Recall: 79.10% | 97.61% 60.59% 
+		F1-Score: 82.66% | 94.14% 71.18% 
+Epoch: 04 | Epoch Time: 0.0m 48.57s
+	Train Measures Report
+		Loss: 0.166
+		Accuracy: 94.41%
+		Precision: 92.35% | 95.51% 89.18% 
+		Recall: 89.18% | 97.67% 80.69% 
+		F1-Score: 90.65% | 96.58% 84.73% 
+	Dev Measures Report
+		Loss: 0.324
+		Accuracy: 89.71%
+		Precision: 87.73% | 90.46% 85.00% 
+		Recall: 77.98% | 97.44% 58.52% 
+		F1-Score: 81.57% | 93.82% 69.32% 
+Epoch: 05 | Epoch Time: 0.0m 48.67s
+	Train Measures Report
+		Loss: 0.130
+		Accuracy: 96.03%
+		Precision: 94.37% | 96.99% 91.76% 
+		Recall: 92.66% | 98.14% 87.19% 
+		F1-Score: 93.49% | 97.56% 89.42% 
+	Dev Measures Report
+		Loss: 0.329
+		Accuracy: 90.22%
+		Precision: 85.59% | 92.77% 78.42% 
+		Recall: 82.64% | 95.22% 70.05% 
+		F1-Score: 83.99% | 93.98% 74.00% 
+Epoch: 06 | Epoch Time: 0.0m 48.97s
+	Train Measures Report
+		Loss: 0.100
+		Accuracy: 97.04%
+		Precision: 95.86% | 97.74% 93.99% 
+		Recall: 94.51% | 98.62% 90.39% 
+		F1-Score: 95.17% | 98.18% 92.15% 
+	Dev Measures Report
+		Loss: 0.363
+		Accuracy: 90.53%
+		Precision: 86.55% | 92.58% 80.52% 
+		Recall: 82.44% | 95.86% 69.02% 
+		F1-Score: 84.26% | 94.19% 74.33% 
+Epoch: 07 | Epoch Time: 0.0m 48.83s
+	Train Measures Report
+		Loss: 0.089
+		Accuracy: 97.49%
+		Precision: 96.83% | 97.87% 95.78% 
+		Recall: 94.99% | 99.05% 90.93% 
+		F1-Score: 95.87% | 98.45% 93.29% 
+	Dev Measures Report
+		Loss: 0.404
+		Accuracy: 89.95%
+		Precision: 85.42% | 92.32% 78.53% 
+		Recall: 81.69% | 95.39% 67.99% 
+		F1-Score: 83.35% | 93.83% 72.88% 
+Epoch: 08 | Epoch Time: 0.0m 47.74s
+	Train Measures Report
+		Loss: 0.073
+		Accuracy: 98.09%
+		Precision: 97.41% | 98.49% 96.34% 
+		Recall: 96.37% | 99.15% 93.59% 
+		F1-Score: 96.88% | 98.82% 94.95% 
+	Dev Measures Report
+		Loss: 0.470
+		Accuracy: 90.22%
+		Precision: 87.74% | 91.26% 84.22% 
+		Recall: 79.79% | 97.10% 62.48% 
+		F1-Score: 82.91% | 94.09% 71.74% 
+Epoch: 09 | Epoch Time: 0.0m 48.15s
+	Train Measures Report
+		Loss: 0.056
+		Accuracy: 98.60%
+		Precision: 98.22% | 98.82% 97.62% 
+		Recall: 97.23% | 99.45% 95.02% 
+		F1-Score: 97.72% | 99.14% 96.30% 
+	Dev Measures Report
+		Loss: 0.460
+		Accuracy: 89.81%
+		Precision: 84.56% | 92.88% 76.25% 
+		Recall: 82.64% | 94.54% 70.74% 
+		F1-Score: 83.55% | 93.70% 73.39% 
+Epoch: 10 | Epoch Time: 0.0m 49.04s
+	Train Measures Report
+		Loss: 0.044
+		Accuracy: 98.96%
+		Precision: 98.56% | 99.20% 97.93% 
+		Recall: 98.07% | 99.51% 96.62% 
+		F1-Score: 98.31% | 99.36% 97.27% 
+	Dev Measures Report
+		Loss: 0.495
+		Accuracy: 89.61%
+		Precision: 84.90% | 92.04% 77.76% 
+		Recall: 81.02% | 95.26% 66.78% 
+		F1-Score: 82.74% | 93.63% 71.85% 
+** Getting Test Attention Mask Done! Time: 0.0m 15.52s
+** Getting Test Token Type Ids Done! Time: 0.0m 0.00s
+	Test Measures Report
+		Loss: 0.369
+		Accuracy: 89.91%
+		Precision: 84.82% | 92.63% 77.01% 
+		Recall: 81.90% | 95.03% 68.77% 
+		F1-Score: 83.24% | 93.82% 72.66% 
+Best epoch is epoch 6

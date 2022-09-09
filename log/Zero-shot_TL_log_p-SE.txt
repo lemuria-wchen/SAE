@@ -1,0 +1,11 @@
+** Load Data Done! Time: 1.0m 21.25s
+** GPU: Use 2 GPUs
+** Getting Test Attention Mask Done! Time: 0.0m 17.46s
+** Getting Test Token Type Ids Done! Time: 0.0m 0.00s
+** predict labels --> ./preds/MyCorpus2BiomedicalPublications_noargencoding_BERT_LSTM_order_noposition_0.json
+	Test Measures Report
+		Loss: 2.824
+		Accuracy: 87.32%
+		Precision: 80.18% | 91.26% 69.10% 
+		Recall: 78.16% | 93.16% 63.16% 
+		F1-Score: 79.10% | 92.20% 65.99% 

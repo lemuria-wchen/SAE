@@ -1,0 +1,1 @@
+Download "bert-base-uncased" (https://huggingface.co/bert-base-uncased/tree/main) and put it here.

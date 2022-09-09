@@ -1,0 +1,11 @@
+** Load Data Done! Time: 1.0m 13.95s
+** GPU: Use 2 GPUs
+** Getting Test Attention Mask Done! Time: 0.0m 9.93s
+** Getting Test Token Type Ids Done! Time: 0.0m 0.16s
+** predict labels --> ./preds/MyCorpus2BiomedicalPublications_tokentype_BERT_LSTM_order_1.json
+	Test Measures Report
+		Loss: 2.699
+		Accuracy: 88.31%
+		Precision: 83.25% | 90.47% 76.03% 
+		Recall: 76.98% | 95.54% 58.42% 
+		F1-Score: 79.50% | 92.94% 66.07% 
