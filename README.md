@@ -48,7 +48,12 @@ Annotated data and code for our COLING 2022 paper: [A Structure-Aware Argument E
   
     
 
-## Get started
+## Get Started
 
 You can try command lines in the "command.md" file.
+
+## Annotation Tool
+
+The annotation tool is available at https://github.com/lemuria-wchen/amcl. 
+
 
