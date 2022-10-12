@@ -1,6 +1,6 @@
 # SAE
 
-Annotated data and code for our COLING 2022 paper: [A Structure-Aware Argument Encoder for Literature Discourse Analysis]().
+Annotated data and code for our COLING 2022 paper: [A Structure-Aware Argument Encoder for Literature Discourse Analysis](https://aclanthology.org/2022.coling-1.619/).
 
 ## Files and Folders
 
@@ -52,8 +52,35 @@ Annotated data and code for our COLING 2022 paper: [A Structure-Aware Argument E
 
 You can try command lines in the "command.md" file.
 
+
 ## Annotation Tool
 
 The annotation tool is available at https://github.com/lemuria-wchen/amcl. 
 
 
+## How to Cite
+
+If you extend or use this work, please cite the [paper](https://aclanthology.org/2022.coling-1.619/) where it was introduced. 
+
+```
+@inproceedings{li-etal-2022-structure,
+    title = "A Structure-Aware Argument Encoder for Literature Discourse Analysis",
+    author = "Li, Yinzi  and
+      Chen, Wei  and
+      Wei, Zhongyu  and
+      Huang, Yujun  and
+      Wang, Chujun  and
+      Wang, Siyuan  and
+      Zhang, Qi  and
+      Huang, Xuanjing  and
+      Wu, Libo",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.619",
+    pages = "7093--7098",
+    abstract = "Existing research for argument representation learning mainly treats tokens in the sentence equally and ignores the implied structure information of argumentative context. In this paper, we propose to separate tokens into two groups, namely framing tokens and topic ones, to capture structural information of arguments. In addition, we consider high-level structure by incorporating paragraph-level position information. A novel structure-aware argument encoder is proposed for literature discourse analysis. Experimental results on both a self-constructed corpus and a public corpus show the effectiveness of our model. Resources are available at https://github.com/lemuria-wchen/SAE.",
+}
+```
